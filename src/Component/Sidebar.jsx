@@ -2,7 +2,7 @@
 const Sidebar = () => {
   return (
     <div className="sidebar">
-      Sidebar
+       <button className="nav-btn"></button>
     </div>
   );
 };
